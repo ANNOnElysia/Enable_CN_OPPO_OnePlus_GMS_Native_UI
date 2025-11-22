@@ -18,15 +18,8 @@ Don't mind that warning and restart your phone, you can see the apk installer ha
 
 
 
-## 2. Enable Other Stock Android Appearance
 
-Go to *Settings --> About device --> Version* and click *Version number* for a few times, a window will appear and ask you to input password. You'll have the Developer mode available after that.
-
-Go to *System & update --> Developer Options*, scroll down and Disable permission monitoring
-
-
-
-## 3. Change  The  Default  Global  Search  to  Google  Search
+## 2. Change  The  Default  Global  Search  to  Google  Search
 
 You need to enable Google Settings first before using any Google components on your phone in the following way
 
@@ -48,7 +41,7 @@ Toggle it to Global search, don't mind, It won't open a Global Search windows si
 
 
 
-## 4. Enable  Gemini  as  The  Default  Voice  Assistant
+## 3. Enable  Gemini  as  The  Default  Voice  Assistant
 
 *Disable Breeno, Breeno memory and Breeno Touch in AI settings if you like, this step is not necessary.*
 
@@ -62,7 +55,7 @@ Open your navigation gesture app, grant the required permissions, select a gestu
 
 
 
-## 5. Make  the  Quick  Glance  Cleaner
+## 4. Make  the  Quick  Glance  Cleaner
 
 Swipe left on your Home screen and tap your **profile picture** on the upper left,tap the **Settings** button on the upper right corner
 
