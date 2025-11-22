@@ -5,12 +5,10 @@ This repository aims to achieve the **internationalization and debloating** of c
 
 **This tutorial is tested on OnePlus 15 and verified useful, there might be nuances between different models or system versions, check before proceed.**
 
-[toc]
 
 
 
-
-
+---
 
 ## 1. Change  The  Default  Global  Search  to  Google  Search
 
